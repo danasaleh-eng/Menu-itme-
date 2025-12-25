@@ -1,0 +1,30 @@
+
+
+.home{
+    background-image: url("./41bcdf8e-abce-4ab5-9fe7-189b1ea3821a.jpg");
+    height: 100vh;
+    background-size: cover;
+   
+}
+.content{
+    color: white; font-size: 40px;
+    h1{
+        color: orangered;
+    }
+    text-align: center;
+    margin-top: 250px;
+    button{
+        padding-inline: 35px;
+        padding-block: 15px;
+        border-radius: 50px;
+        font-size: 15px;
+        border-color: orangered;
+        border size: 50px;
+    }
+}
+.layer{
+background-color: rgba(0, 0, 0, 0.568);
+height:100vh;
+ overflow:hidden;
+ 
+}
