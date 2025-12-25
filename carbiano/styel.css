@@ -1,0 +1,29 @@
+h1{
+    color: rgb(0, 0, 0); text-align: center; font-size: 60px;
+}
+span{
+    color: orangered;
+}
+.xz{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+H2{
+text-align: center; color: black;
+margin: 3opx;
+}
+p{
+    color: rgb(82, 3, 3); font-size: 18px;
+}
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: orangered;
+    border-radius: 100px;
+}
+
+body{
+    color: bisque;
+}
